@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&random=false&width=435&lines=Hi%2C+I'm+Vlad;A+passionate+frontend+developer)](https://git.io/typing-svg)
 </p>	
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
