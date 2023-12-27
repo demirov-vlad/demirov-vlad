@@ -1,6 +1,4 @@
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&random=false&width=435&lines=Hi%2C+I'm+Vlad;A+passionate+frontend+developer)](https://git.io/typing-svg)
-</p>	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&random=false&width=435&lines=Hi%2C+I'm+Vlad;A+passionate+frontend+developer)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 <h1 align="center">Hi 👋, I'm Vlad</h1>
