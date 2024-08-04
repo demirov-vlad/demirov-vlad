@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/demirov_vlad" target="blank"><img src="https://img.shields.io/twitter/follow/demirov_vlad?logo=twitter&style=for-the-badge" alt="demirov_vlad" /></a> </p>
 
-- 🔭 I’m currently working on **iGadget Store project**
+- 🔭 I’m currently working on **OLX.ua Killer App**
 
 - 👨‍💻 All of my projects are available at [https://www.demirovdev.com](https://www.demirovdev.com)
 
