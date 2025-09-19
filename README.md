@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/demirov_vlad" target="blank"><img src="https://img.shields.io/twitter/follow/demirov_vlad?logo=twitter&style=for-the-badge" alt="demirov_vlad" /></a> </p>
 
-- 🔭 I’m currently working on **OLX.ua Killer App**
+- 🔭 I’m currently working on **Lunkado Platform**
 
 - 👨‍💻 All of my projects are available at [https://www.demirovdev.com](https://www.demirovdev.com)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/vladyslav-demirov-029b141b3](www.linkedin.com/in/vladyslav-demirov-029b141b3)
+- 📝 I regularly write articles on [www.linkedin.com/in/vladyslav-demirov](www.linkedin.com/in/vladyslav-demirov-029b141b3)
 
 - 📫 How to reach me **demirov.vlad@gmail.com**
 
